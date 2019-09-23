@@ -1,0 +1,6 @@
+﻿  BigInteger.cpp
+C:\Users\XinyuWang\source\repos\MyBigInteger\BigInteger\BigInteger.cpp(402,28): warning C4244:  “=”: 从“__int64”转换到“char”，可能丢失数据
+  main.cpp
+  正在生成代码...
+C:\Users\XinyuWang\source\repos\MyBigInteger\BigInteger\BigInteger.cpp(431,20): warning C4018:  “<”: 有符号/无符号不匹配
+  BigInteger.vcxproj -> C:\Users\XinyuWang\source\repos\MyBigInteger\Debug\BigInteger.exe
